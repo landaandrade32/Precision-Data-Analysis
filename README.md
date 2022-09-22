@@ -2,7 +2,8 @@
 Software para la obtencion de datos metereologicos 
 
 ## Enfoque del Proyecto:
-Análisis de datos obtenidos por estaciones meteorológicas
+Análisis de datos obtenidos por 
+estaciones meteorológicas
 
 ## Problema  
 El cambio climático influye en los cultivos, ya que  ayudan a obtener el agua suficiente, pero  pueden ocurrir consecuencias, si un cultivo no se encuentra con el agua necesaria  ocasiona deficiencia de humedad en el suelo que podría producir reducción en la transpiración, lo que ocasiona cantidades de materia seca y biomasa sintetizada y acumulada en la planta  por esta razón si existe deficiencia de agua el programa ayudará a saber en qué momento es necesario regar a través del sistema de riego que será de ayuda para  ahorrar  agua, ya que solo se utilizara la necesaria y se dirigirá directamente al sistema de raíces por lo cual permitirá ahorrar agua y dinero. De esta manera estamos evitando efectos biofísicos sobre los cultivos que puedan  inducir cambios en la producción y precios.
