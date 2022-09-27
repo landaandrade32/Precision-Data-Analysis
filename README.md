@@ -70,7 +70,7 @@ Este proyecto utiliza herramientas de desarrollo como Python en Visual Studio Co
 
 ## Integrantes del Grupo:
 Cesia Espinal Cabañas 24260
-Laurence Andrade 24025
+Laurence Andrade  24025
 Johana Ximena Paillacho 24052
 Johana Mayte Paillacho 24053
 Samuel Hernandez 24159
